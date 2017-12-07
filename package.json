@@ -1,0 +1,29 @@
+{
+  "name": "assets-builder",
+  "version": "1.0.0",
+  "description": "PNG optimizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotify/assets-builder.git"
+  },
+  "keywords": [
+    "png",
+    "optipng",
+    "tinypng",
+    "optimization"
+  ],
+  "author": "Dotify",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dotify/assets-builder/issues"
+  },
+  "homepage": "https://github.com/dotify/assets-builder#readme",
+  "dependencies": {
+    "optipng-bin": "^4.0.0",
+    "tinify": "^1.5.0"
+  }
+}
